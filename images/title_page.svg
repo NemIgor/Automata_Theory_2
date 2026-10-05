@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595 842" width="595" height="842" font-family="'Times New Roman', Times, serif" fill="#000">
+  <!-- Лист -->
+  <rect x="0.5" y="0.5" width="594" height="841" fill="#fff" stroke="#c8c8c8"/>
+
+  <!-- Шапка -->
+  <g font-size="14" text-anchor="middle">
+    <text x="319" y="92">Министерство науки и высшего образования РФ</text>
+    <text x="319" y="108">Федеральное государственное автономное</text>
+    <text x="319" y="124">образовательное учреждение высшего</text>
+    <text x="319" y="140">образования</text>
+    <text x="319" y="158">«СИБИРСКИЙ ФЕДЕРАЛЬНЫЙ УНИВЕРСИТЕТ»</text>
+
+    <text x="319" y="198">Институт космических и информационных технологий</text>
+    <text x="319" y="232">Программная инженерия</text>
+  </g>
+  <g stroke="#000" stroke-width="0.6">
+    <line x1="150" y1="202" x2="488" y2="202"/>
+    <line x1="150" y1="236" x2="488" y2="236"/>
+  </g>
+  <g font-size="8" text-anchor="middle">
+    <text x="319" y="210">институт</text>
+    <text x="319" y="244">кафедра</text>
+  </g>
+
+  <!-- Название -->
+  <text x="319" y="378" font-size="17" text-anchor="middle">ОТЧЁТ О ПРАКТИЧЕСКОЙ РАБОТЕ № 2</text>
+  <text x="319" y="398" font-size="14" text-anchor="middle">Регулярные выражения, грамматики и языки</text>
+  <line x1="150" y1="402" x2="488" y2="402" stroke="#000" stroke-width="0.6"/>
+  <text x="319" y="410" font-size="8" text-anchor="middle">тема</text>
+
+  <!-- Преподаватель -->
+  <text x="85" y="553" font-size="14">Преподаватель</text>
+  <text x="481" y="553" font-size="14" text-anchor="middle">А. С. Кузнецов</text>
+  <g stroke="#000" stroke-width="0.6">
+    <line x1="295" y1="556" x2="397" y2="556"/>
+    <line x1="410" y1="556" x2="552" y2="556"/>
+  </g>
+  <g font-size="8" text-anchor="middle">
+    <text x="346" y="565">подпись, дата</text>
+    <text x="481" y="565">инициалы, фамилия</text>
+  </g>
+
+  <!-- Студент -->
+  <text x="85" y="598" font-size="14">Студент</text>
+  <text x="146" y="598" font-size="14">КИ24-16/2Б, 032430324</text>
+  <text x="481" y="598" font-size="14" text-anchor="middle">И. А. Немыкин</text>
+  <g stroke="#000" stroke-width="0.6">
+    <line x1="143" y1="601" x2="288" y2="601"/>
+    <line x1="295" y1="601" x2="397" y2="601"/>
+    <line x1="410" y1="601" x2="552" y2="601"/>
+  </g>
+  <g font-size="8" text-anchor="middle">
+    <text x="215" y="610">номер группы, зачетной книжки</text>
+    <text x="346" y="610">подпись, дата</text>
+    <text x="481" y="610">инициалы, фамилия</text>
+  </g>
+
+  <!-- Город и год -->
+  <text x="319" y="752" font-size="14" text-anchor="middle">Красноярск 2026</text>
+</svg>
