@@ -19,9 +19,7 @@
 Файлы работы:
 
 - [Variant2_RE.jff](Variant2_RE.jff) - регулярное выражение (часть 1);
-- [Variant2_RE_NFA.jff](Variant2_RE_NFA.jff) - НКА, полученный из РВ в JFLAP;
-- [Variant2_Grammar.jff](Variant2_Grammar.jff) - регулярная грамматика (часть 2);
-- [Variant2_Grammar_NFA.jff](Variant2_Grammar_NFA.jff) - КА, полученный из РГ в JFLAP.
+- [Variant2_Grammar.jff](Variant2_Grammar.jff) - регулярная грамматика (часть 2).
 
 ## 1. Анализ языка
 
@@ -95,7 +93,7 @@ JFLAP начинает с обобщённого графа переходов �
 
 ### 2.3. Эквивалентный КА
 
-Кнопка **Export** открывает полученный НКА в отдельном окне. В нём 34 состояния и переходы по `a`, `b` и λ. Автомат сохранён в [Variant2_RE_NFA.jff](Variant2_RE_NFA.jff).
+Кнопка **Export** открывает полученный НКА в отдельном окне. В нём 34 состояния и переходы по `a`, `b` и λ.
 
 ![НКА](images/re/nfa.png)
 
@@ -168,7 +166,7 @@ JFLAP создаёт по одному состоянию на каждый не
 
 *Рисунок 17 - Добавлено последнее правило `F → λ`, кнопка **Done?** выдаёт «The conversion is finished!»*
 
-После **Export** получен КА, сохранённый в [Variant2_Grammar_NFA.jff](Variant2_Grammar_NFA.jff):
+После **Export** получен КА:
 
 ![КА из грамматики](images/grammar/nfa.png)
 
